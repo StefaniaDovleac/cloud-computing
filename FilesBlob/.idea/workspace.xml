@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad1d249d-896e-4ca3-983d-3098c294899e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/storage/StorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeniorDriveClient/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../SeniorDriveClient/src/app/shared/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/domain/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/domain/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/dto/FileDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/dto/FileDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/repository/DirectoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/repository/DirectoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/repository/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/repository/FileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/service/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/java/com/unibuc/demo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../rest/SeniorDriveApi/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Stefania Dovleac\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mh4eFHFW4vtZhXXBCHsp7qtYhv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="FilesBlob" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad1d249d-896e-4ca3-983d-3098c294899e" name="Default Changelist" comment="" />
+      <created>1609932584908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609932584908</updated>
+      <workItem from="1609932588769" duration="524000" />
+      <workItem from="1609933367305" duration="11188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1609935794261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609935794261" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1609947655197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655197" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1609947655198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609947655198" />
+    <state x="342" y="180" key="new project wizard" timestamp="1609933112867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="180" key="new project wizard/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609933112867" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609934629307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.98.1360.728@0.0.1920.1040" timestamp="1609934629307" />
+  </component>
+</project>
